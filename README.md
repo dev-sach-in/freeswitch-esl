@@ -23,7 +23,7 @@ Clone the repository and install:
 
 ```bash
 git clone https://github.com/dev-sach-in/freeswitch-esl.git
-cd freeswitch-event-client
+cd dev-sach-in
 npm install
 ```
 
