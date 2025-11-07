@@ -22,7 +22,7 @@ It allows you to connect to FreeSWITCH over TCP (typically port `8021`), authent
 Clone the repository and install:
 
 ```bash
-git clone https://github.com/<your-username>/freeswitch-event-client.git
+git clone https://github.com/dev-sach-in/freeswitch-esl.git
 cd freeswitch-event-client
 npm install
 ```
